@@ -2,6 +2,11 @@
 
 비전 AI와 LLM을 활용하여 면접자의 시선, 감정, 답변 내용을 종합적으로 분석하고 실질적인 면접 능력 향상을 돕는 차세대 모의면접 플랫폼입니다.
 
+## 🎥 프로젝트 시연 영상 (Demo Video)
+---
+[![](https://img.shields.io/badge/YouTube-시연%20영상%20보기-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=pMzHO42YpjU)
+---
+
 ## 🗓️ 개발 기간
 08.18 ~ 09.26
 
